@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-#Simple DDoS script with grabber made by EternalsDev
-#Github: https://github.com/EternalsDev
+#Simple DDoS script with grabber made by Lee0907 a.k.a EternalsDev / Lyte
+#Github: https://github.com/Lee0907
 #[- ~|~ [- /? |\| /\ |_ _\~ 
 #Grabber Credit to: https://github.com/Rdimo/Hazard-Token-Grabber-V2
 #DoS Script credit: https://github.com/Leeon123
